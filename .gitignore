@@ -1,0 +1,10 @@
+.DS_Store
+
+# Older local working assets that are not referenced by the current homepage
+assets/restored-photos/
+assets/pom-photos/
+assets/folder-photos/
+assets/new-photos/intro-photos/
+assets/beach.png
+assets/cafe.png
+assets/hero.png
