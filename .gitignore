@@ -1,5 +1,8 @@
 .DS_Store
 
+# Private note drafts (never publish to GitHub Pages)
+note-drafts/
+
 # Older local working assets that are not referenced by the current homepage
 assets/restored-photos/
 assets/pom-photos/
